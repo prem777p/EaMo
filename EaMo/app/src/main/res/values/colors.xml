@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#00ACDF</color>
+    <color name="secondary_color">#55D0FF</color>
+    <color name="hint_text">#575353</color>
+    <color name="myearning_textclr">#B4B4B4</color>
+    <color name="transparent">#00000000</color>
+    <color name="our_partner_txtclr">#4D4D4D</color>
+    <color name="activity_background_clr">#F0F0F0</color>
+    <color name="profile_txtcolor">#797979</color>
+    <color name="bottom_nev_bar">#777777</color>
+</resources>
